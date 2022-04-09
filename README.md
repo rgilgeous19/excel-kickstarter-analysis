@@ -1,2 +1,2 @@
-# excel-kickstarter-analysis
+#kickstarter-analysis
 perform analysis on kickstarter
